@@ -1,0 +1,14 @@
+Source: zabbix-check-javaproc
+Section: misc
+Priority: optional
+Maintainer: Cleverdata build user <danikin@creditnet.ru>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: page
+#Vcs-Git: git://git.debian.org/collab-maint/zabbix-check-javaproc.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/zabbix-check-javaproc.git;a=summary
+
+Package: zabbix-check-javaproc
+Architecture: all
+Depends: ${misc:Depends}
+Description: desc

@@ -1,0 +1,23 @@
+zabbix-aerospike (0.0.1-1ubuntu3) trusty; urgency=medium
+
+  * fix
+
+ -- Cleverdata build user <danikin@creditnet.ru>  Tue, 05 May 2015 17:19:03 +0300
+
+zabbix-aerospike (0.0.1-1ubuntu2) trusty; urgency=medium
+
+  * postinst fix 
+
+ -- Cleverdata build user (scan) <danikin@creditnet.ru>  Wed, 22 Apr 2015 00:21:49 +0300
+
+zabbix-aerospike (0.0.1-1ubuntu1) trusty; urgency=medium
+
+  * commit
+
+ -- Cleverdata build user (scan) <danikin@creditnet.ru>  Tue, 21 Apr 2015 20:24:17 +0300
+
+zabbix-aerospike (0.0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Cleverdata build user (scan) <danikin@creditnet.ru>  Tue, 21 Apr 2015 20:24:03 +0300

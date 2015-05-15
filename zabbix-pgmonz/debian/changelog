@@ -1,0 +1,11 @@
+zabbix-pgmonz (0.0.1-1ubuntu1) trusty; urgency=medium
+
+  * init
+
+ -- Cleverdata build user <danikin@creditnet.ru>  Fri, 15 May 2015 15:52:00 +0300
+
+zabbix-pgmonz (0.0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Cleverdata build user <danikin@creditnet.ru>  Fri, 15 May 2015 15:43:44 +0300

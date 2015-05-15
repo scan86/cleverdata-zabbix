@@ -1,0 +1,14 @@
+Source: zabbix-aerospike
+Section: misc
+Priority: optional
+Maintainer: Cleverdata build user (scan) <danikin@creditnet.ru>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: page
+#Vcs-Git: git://git.debian.org/collab-maint/zabbix-aerospike.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/zabbix-aerospike.git;a=summary
+
+Package: zabbix-aerospike
+Architecture: all
+Depends: ${misc:Depends}, ${perl:Depends}, zabbix-sender, zabbix-agent
+Description: desc

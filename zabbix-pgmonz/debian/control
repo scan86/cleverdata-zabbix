@@ -1,0 +1,14 @@
+Source: zabbix-pgmonz
+Section: misc
+Priority: optional
+Maintainer: Cleverdata build user <danikin@creditnet.ru>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: page
+#Vcs-Git: git://git.debian.org/collab-maint/zabbix-pgmonz.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/zabbix-pgmonz.git;a=summary
+
+Package: zabbix-pgmonz
+Architecture: all
+Depends: ${misc:Depends}, zabbix-sender, zabbix-agent, postgresql-client-common
+Description: desc

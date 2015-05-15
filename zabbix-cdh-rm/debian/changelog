@@ -1,0 +1,40 @@
+zabbix-cdh-rm (0.0.1-1ubuntu7) trusty; urgency=medium
+
+  * init
+
+ -- Cleverdata build user <danikin@creditnet.ru>  Fri, 15 May 2015 16:33:02 +0300
+
+zabbix-cdh-rm (0.0.1-1ubuntu6) trusty; urgency=medium
+
+  *  fix
+
+ -- Cleverdata build user <danikin@creditnet.ru>  Tue, 05 May 2015 17:19:29 +0300
+
+zabbix-cdh-rm (0.0.1-1ubuntu5) trusty; urgency=medium
+
+  *  next
+
+ -- Cleverdata build user (scan) <danikin@creditnet.ru>  Tue, 21 Apr 2015 20:11:02 +0300
+
+zabbix-cdh-rm (0.0.1-1ubuntu4) trusty; urgency=medium
+
+  * new changes
+
+ -- Cleverdata build user (scan) <danikin@creditnet.ru>  Tue, 21 Apr 2015 19:55:28 +0300
+
+zabbix-cdh-rm (0.0.1-1ubuntu3) trusty; urgency=medium
+
+  [ Cleverdata build user ]
+  * upd 
+
+  [ Cleverdata build user (scan) ]
+  * new
+  * new
+
+ -- Cleverdata build user (scan) <danikin@creditnet.ru>  Tue, 21 Apr 2015 19:54:31 +0300
+
+zabbix-cdh-rm (0.0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Cleverdata build user <danikin@creditnet.ru>  Mon, 20 Apr 2015 20:56:22 +0300

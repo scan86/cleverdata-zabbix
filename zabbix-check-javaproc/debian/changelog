@@ -1,0 +1,11 @@
+zabbix-check-javaproc (0.0.1-1ubuntu1) trusty; urgency=medium
+
+  * init
+
+ -- Cleverdata build user <danikin@creditnet.ru>  Wed, 06 May 2015 01:04:04 +0300
+
+zabbix-check-javaproc (0.0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Cleverdata build user <danikin@creditnet.ru>  Wed, 06 May 2015 00:59:44 +0300
